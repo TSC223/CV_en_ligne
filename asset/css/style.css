@@ -1,0 +1,419 @@
+/* EN TETE TRIANGULAIRE */
+
+.custom-shape-divider-top-1630874208 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1630874208 svg {
+  position: relative;
+  display: block;
+  width: calc(300% + 1.3px);
+  height: 195px;
+}
+
+.custom-shape-divider-top-1630874208 .shape-fill {
+  fill: #212121;
+}
+
+/* EN TETE TRIANGULAIRE */
+/* EN TETE TRIANGULAIRE */
+/* EN TETE TRIANGULAIRE */
+
+/* EN TETE TRIANGULAIRE2 */
+/* EN TETE TRIANGULAIRE2 */
+/* EN TETE TRIANGULAIRE2 */
+
+.custom-shape-divider-bottom-1630875128 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1630875128 svg {
+  position: relative;
+  display: block;
+  width: calc(300% + 1.3px);
+  height: 95px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1630875128 .shape-fill {
+  fill: #212121;
+}
+
+/* EN TETE TRIANGULAIRE2 */
+/* EN TETE TRIANGULAIRE2 */
+
+/* EN TETE TRIANGULAIRE2 */
+/* EN TETE TRIANGULAIRE2 */
+
+/* SECTION TRIANGULAIRE */
+
+/*SECTION TRIANGULAIRE */
+
+.custom-shape-divider-top-1630452868 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1630452868 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 100px;
+}
+
+.custom-shape-divider-top-1630452868 .shape-fill {
+  fill: #ffffff;
+}
+
+/* SECTION TRIANGULAIRE */
+
+/* SECTION TRIANGULAIRE */
+
+/*AUTO FACE HTML*/
+/*AUTO FACE HTML*/
+/*AUTO FACE HTML*/
+
+@font-face {
+  font-family: "inconsolata";
+  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/Simplifica.woff")
+    format("woff");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+#section_TETE div {
+  position: relative;
+  overflow: hidden;
+  line-height: 0;
+}
+#section_TETE img {
+  width: 100%;
+  filter: contrast(60%);
+}
+#section_TETE p {
+  line-height: 1;
+  text-align: justify;
+  padding: 0.18vw;
+  margin-top: 0;
+  font-size: 0.37vw;
+  color: #fff;
+  background: #212121;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* AUTO FACE HTML*/
+/*AUTO FACE HTML*/
+/*AUTO FACE HTML*/
+
+/* NO PADDING */
+
+.no-padding > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+/* NO PADDING */
+a {
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* font-family: "Raleway", sans-serif; */
+  font-family: "Oswald", sans-serif;
+}
+body,
+p a {
+  font-family: "Prompt", sans-serif;
+}
+/*SITE GO NAVIGATION*/
+/*SITE GO NAVIGATION*/
+/*SITE GO NAVIGATION*/
+
+header {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid grey;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+nav a {
+  border-bottom: 2px solid grey;
+}
+/* TITRE SITE */
+
+.siteEntete {
+  padding: 5% 1% 5% 5%;
+  background: #f0f7f8;
+  background: url(../images/619b1ab7ac.gif) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 230px;
+  position: relative;
+}
+.siteEntete2 {
+  padding: 9% 7.5% 1.5% 7.5%;
+  background: #212121;
+  color: white;
+  position: relative;
+  z-index: -1;
+}
+
+.TITRE_DEV {
+  font-size: 3.9em;
+  font-weight: 900;
+  color: #212121;
+  z-index: 6;
+  position: relative;
+  text-shadow: 1px 1px 1px grey;
+}
+
+.siteEntete2 .sitEN2div {
+  font-size: 1.4em;
+  font-weight: 200;
+  width: 75%;
+  font-family: "Quicksand", sans-serif;
+  text-shadow: 1px 1px 1px black;
+  color: white;
+  margin-top: -3%;
+}
+.siteEntete2 span strong {
+  font-weight: bold;
+  font-size: 140%;
+}
+.siteEntete2 span em {
+  color: slateblue;
+  font-weight: bold;
+  font-size: 115%;
+}
+.siteEntete2 span i {
+  color: #cbf000;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+/* ZONE TECHNOLOGIE */ /* ZONE TECHNOLOGIE */
+
+/* ZONE TECHNOLOGIE */ /* ZONE TECHNOLOGIE */
+
+.sectionTechno {
+  padding: 2.5% 5% 5% 5%;
+}
+.les_tect_titre {
+  font-size: 70px;
+  color: black;
+  margin: 16% 2% 6% 2%;
+}
+.zone_lesTechno {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -40%;
+  padding: 2.5% 2.5% 2.5% 5%;
+  width: 570px;
+  float: right;
+  background: url(../images/619b1ab7ac.gif) no-repeat;
+  background-size: cover;
+  background-position: center;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 10px 10px 0px;
+  border-radius: 10px;
+}
+.zone_lesTechno img {
+  padding: 1%;
+  height: 105px;
+  width: 29%;
+  margin: 7px;
+  background: url(../images/transparent90_blanc.png);
+  border-radius: 5px;
+  border: 0.8px dashed black;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 0px 10px 0px;
+}
+.zone_lesTechno img:hover {
+  border: 1px solid black;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 10px 0px;
+}
+/* ZONE TECHNOLOGIE */
+/* ZONE TECHNOLOGIE */
+
+/* ZONE HTML ZONE HTML*/
+/* ZONE HTML ZONE HTML*/
+
+.zone_html {
+  background: #f7f1f1;
+  color: black;
+  padding: 10% 2.5% 10% 0%;
+  ackground: url(../images/TSC_fond_CV.png) no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.zone_html h1 {
+  color: black;
+  font-size: 50px;
+}
+.zone_html p {
+  color: black;
+  font-size: 14.5px;
+  margin-top: 1.5%;
+}
+.html_site_bloc {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+.html_site_bloc div {
+  height: 165px;
+}
+.html_site_bloc img {
+  max-width: 350px;
+  height: 100%;
+  border: 3px solid black;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 10px 10px 0px;
+}
+.html_site_bloc div p {
+  margin-top: 3.5%;
+}
+.zone_html .htcssimg_hover {
+  opacity: 0.6;
+}
+.zone_html .htcssimg_hover:hover {
+  opacity: 1;
+}
+/* ZONE HTML ZONE HTML*/
+/* ZONE HTML ZONE HTML*/
+
+/* ZONE REACT */
+/* ZONE REACT */
+/* ZONE REACT */
+.ZONE_react {
+  padding: 10% 5% 10% 5%;
+  ackground: #f0f7f8;
+  text-align: left;
+  ackground: url(../images/TSC_fond_CV.png) no-repeat;
+  background-position: center;
+  background-attachment: fixe;
+}
+.ZONE_react h1 {
+  color: white;
+  font-size: 55px;
+}
+.react_BLOC {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 5% 0% 5% 0%;
+}
+.react_BLOC a {
+  text-decoration: none;
+  color: white;
+  width: 30%;
+  height: 165px;
+}
+.react_BLOC img {
+  width: 100%;
+  height: 100%;
+  opacity: 0.8;
+  border: 3px solid #cbf000;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 10px 10px 0px;
+}
+.react_BLOC img:hover {
+  opacity: 1;
+  border: 3px solid #95eefa;
+}
+/* ZONE REACT */
+/* ZONE REACT */
+/* ZONE REACT */
+
+/* ZONE WORDPRESS*/ /* ZONE WORDPRESS*/
+
+/* ZONE WORDPRESS*/ /* ZONE WORDPRESS*/
+
+/* ZONE WORDPRESS*/ /* ZONE WORDPRESS*/
+
+.wordP_ZONE {
+  padding: 5% 5% 10% 5%;
+  background: url(../images/TSC_fond_CV.png) no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.wordP_ZONE h1 {
+  font-size: 45px;
+  margin: 5% 2.5% 5% 2.5%;
+  color: white;
+}
+.wordP_ZONE p {
+  margin-bottom: 5%;
+  color: white;
+}
+.wordP_ZONE .bloc_img {
+  display: flex;
+  flex-wrap: wrap;
+  height: 180px;
+  border-radius: 10px;
+  border: 2.5px solid black;
+  background: #fe9d95;
+}
+.wordP_ZONE a {
+  width: 30%;
+  height: 165px;
+  margin-left: 3%;
+  color: white;
+  font-size: 15px;
+  margin-top: 4%;
+  border: 3px solid white;
+}
+.wordP_ZONE a:hover {
+  border: 3px inset black;
+}
+.wordP_ZONE img {
+  width: 100%;
+  height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 10px 10px 0px;
+}
+.wordP_ZONE a p {
+  margin-top: 3%;
+  font-size: 17px;
+}
+/* ZONE WORDPRESS*/ /* ZONE WORDPRESS*/
+
+/* ZONE WORDPRESS*/ /* ZONE WORDPRESS*/
+
+/* ZONE WORDPRESS*/ /* ZONE WORDPRESS*/
+
+footer {
+  background: lightsteelblue;
+  padding: 5%;
+}
+.footer_section1 {
+}
+.footer_section2 {
+}
+.footer_section3 {
+}
